@@ -1,0 +1,819 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"total",
+				"totalpage"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"bar",
+				"background"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"innerH",
+				"innerHTML"
+			],
+			[
+				"offset",
+				"offsetHeight"
+			],
+			[
+				"scroll",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"stop",
+				"stopToGo"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"ge",
+				"getElementsByClassName"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"interval",
+				"intervalId2"
+			],
+			[
+				"interv",
+				"intervalId2"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"step",
+				"steplength"
+			],
+			[
+				"set",
+				"setInterval"
+			],
+			[
+				"getElement",
+				"getElementsByClassName"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"cl",
+				"column"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"m",
+				"middle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Administrator/Desktop/angular-phonecat/app/partials/phone-list.html",
+			"settings":
+			{
+				"buffer_size": 1152,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/HTML/AngularJs/phonecap/app/index.html",
+			"settings":
+			{
+				"buffer_size": 222,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/HTML/AngularJs/phonecap/app/parts/phonelist.html",
+			"settings":
+			{
+				"buffer_size": 505,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/NodeJs.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssc",
+				"Set Syntax: CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ssp",
+				"Set Syntax: PHP"
+			],
+			[
+				"SSH",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss",
+				"Set Syntax: HTML"
+			],
+			[
+				"pa",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"vi",
+				"File: New View into File"
+			],
+			[
+				"sid",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/C/Users/Administrator/Desktop/angular-phonecat/app/js/controllers.js",
+		"/C/Users/Administrator/Desktop/angular-phonecat/app/js/services.js",
+		"/C/Users/Administrator/Desktop/angular-phonecat/app/js/app.js",
+		"/C/Users/Administrator/Desktop/angular-phonecat/app/css/app.css",
+		"/C/Users/Administrator/Desktop/angular-phonecat/app/partials/phone-detail.html",
+		"/D/Program Files/wamp/www/bookstore/src/js/controllers.js",
+		"/D/Program Files/wamp/www/bookstore/src/tpls/bookType.html",
+		"/D/Program Files/wamp/www/bookstore/src/js/app.js",
+		"/C/Users/Administrator/Desktop/angular-phonecat/app/phones/phones.json",
+		"/C/Users/Administrator/Desktop/AngularJS实战第二章第五节指令源代码/02-05/app/Directive&Directive.js",
+		"/E/HTML/AngularJs/ngCLass/ngClass.html",
+		"/E/HTML/AngularJs/ui-router/js/studentInfo.js",
+		"/E/HTML/AngularJs/ui-router/studentInfo.html",
+		"/E/HTML/AngularJs/ui-router/tpls/index.html",
+		"/E/HTML/AngularJs/ui-router/tpls/home.html",
+		"/E/HTML/AngularJs/ui-router/tpls/topbar.html",
+		"/E/HTML/AngularJs/ui-router/tpls/course.html",
+		"/E/HTML/AngularJs/ui-router/tpls/yuwen.html",
+		"/E/HTML/AngularJs/ui-router/tpls/shuxue.html",
+		"/E/HTML/AngularJs/ui-router/tpls/yinyu.html",
+		"/E/HTML/AngularJs/ui-router/tpls/login.html",
+		"/C/Users/Administrator/Desktop/AngularJS实战第二章第四节路由源代码/app/UIRoute3.js",
+		"/E/HTML/AngularJs/ui-router/test.js",
+		"/E/HTML/AngularJs/ui-router/studentInfo.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/E/HTML/AngularJs/ng-router/app/js/app.js",
+		"/E/HTML/AngularJs/ngCLass/js/ngClass.js",
+		"/E/HTML/AngularJs/ngCLass/css/ngClass.css",
+		"/C/Users/Administrator/Desktop/AngularJS实战第二章第三节双向数据绑定源代码-BookStore/app/index.html",
+		"/C/Users/Administrator/Desktop/AngularJS实战第二章第三节双向数据绑定源代码-BookStore/app/tpls/bookList.html",
+		"/E/HTML/AngularJs/change css/index.html",
+		"/E/HTML/AngularJs/change css/js/changeColor.js",
+		"/E/HTML/AngularJs/form/index.html",
+		"/E/HTML/AngularJs/change css/css/css.css",
+		"/E/HTML/AngularJs/form/form.js",
+		"/C/Users/Administrator/Desktop/AngularJS实战第二章第三节双向数据绑定源代码-app/Form.html",
+		"/C/Users/Administrator/Desktop/AngularJS实战第二章第三节双向数据绑定源代码-app/Form.js",
+		"/E/HTML/AngularJs/test1/test1.html",
+		"/C/Users/Administrator/Desktop/AngularJS实战第二章第三节双向数据绑定源代码-app/HelloAngular_MVC.js",
+		"/C/Users/Administrator/Desktop/AngularJS实战第二章第三节双向数据绑定源代码-app/HelloAngular_MVC.html",
+		"/C/Users/Administrator/Desktop/test.js",
+		"/D/Program Files/wamp/www/guest book/ajax.js",
+		"/D/test/src/global.js",
+		"/D/Program Files/wamp/www/guest book/guest_book.js",
+		"/C/Users/Administrator/Desktop/第一章第二节（2）/karma/karma/test/unit/TestCase1.js",
+		"/C/Users/Administrator/Desktop/第一章第二节（2）/grunt/package.json",
+		"/C/Users/Administrator/Desktop/第一章第二节（2）/grunt/Gruntfile.js",
+		"/D/test/Gruntfile.js",
+		"/D/test/dist/global.js",
+		"/D/Program Files/nodejs/node_global/node_modules/grunt-cli/Gruntfile.js",
+		"/D/Program Files/wamp/www/2014-1-17-jsonp/豆瓣.html",
+		"/D/Program Files/wamp/www/douban/douban.html",
+		"/D/test/node_modules/grunt/package.json",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/NodeJs.sublime-build",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/bh_core.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/Administrator/Desktop/test.html",
+		"/E/(视频)妙味课堂-Ajax/03 Ajax_AJAX跨域解决方案：JSONP/lesson3/2014-1-17-jsonp/百度.html",
+		"/D/Program Files/wamp/www/input index/baidu.html",
+		"/D/Program Files/wamp/www/pbl/pbl.html",
+		"/D/Program Files/wamp/www/guest book/guest book.html",
+		"/D/Program Files/wamp/www/guest book/layout.css",
+		"/E/(视频)妙味课堂-Ajax/02 Ajax_实例：留言板、瀑布流/lesson2/guestbook.js",
+		"/D/Program Files/wamp/www/guest book/guestbook/Controller/IndexController.class.php",
+		"/D/Program Files/wamp/www/guest book/index.html",
+		"/E/(视频)妙味课堂-Ajax/02 Ajax_实例：留言板、瀑布流/lesson2/css.css",
+		"/D/Program Files/wamp/www/guest book/miaov_guestbook_2014-01-08.sql",
+		"/E/(视频)妙味课堂-Ajax/02 Ajax_实例：留言板、瀑布流/lesson2/1.pbl.html",
+		"/D/Program Files/wamp/www/pbl/ajax.js",
+		"/D/Program Files/wamp/www/ajax/ajax1/first-ajax.html",
+		"/E/HTML/事件流/事件流.html",
+		"/D/Program Files/wamp/www/ajax/ajax2/ajax2.html",
+		"/D/Program Files/wamp/www/ajax/ajax2/2.php",
+		"/D/Program Files/wamp/www/ajax/ajax3/post.html",
+		"/D/Program Files/wamp/www/ajax/ajax3/post.php",
+		"/E/HTML/JSON_test/test.html",
+		"/E/HTML/json.js",
+		"/D/Program Files/wamp/www/ajax/ajax1/ajax.js",
+		"/D/Program Files/wamp/www/ajax/ajax1/data.php",
+		"/D/Program Files/wamp/www/page for a band/index.html",
+		"/E/HTML/page for a band/scripts/global.js",
+		"/E/网易微专业视频(1)/DOM编程艺术/十一 动画/index.html",
+		"/E/(视频)妙味茶馆javascript全套视屏/第5部分：妙味茶馆中所有JS案例及源文件/01妙味课堂——360度全景展示效果/01妙味课堂——360度全景展示效果/DD_belatedPNG_0.0.8a.js",
+		"/E/网易微专业视频(1)/DOM编程艺术/十二 表单操作/1.表单元素/demo/at.html",
+		"/E/网易微专业视频(1)/DOM编程艺术/十二 表单操作/1.表单元素/demo/preview.html",
+		"/E/网易微专业视频(1)/DOM编程艺术/十二 表单操作/1.表单元素/demo/select.html",
+		"/E/HTML/Photo gallery/photo gallery.html",
+		"/E/HTML/Photo gallery/change photo.js",
+		"/E/网易微专业视频(1)/DOM编程艺术/十三 列表操作/demo/trimpath.js",
+		"/E/HTML/图片轮播/cssReset.css",
+		"/E/HTML/图片轮播/index.html",
+		"/E/HTML/图片轮播/layout.css",
+		"/E/HTML/图片轮播/global.js",
+		"/C/Users/Administrator/Desktop/freecodecamp-staging/gulpfile.js",
+		"/E/HTML/全屏布局/demo.css",
+		"/E/HTML/自适应/demo.css",
+		"/E/HTML/自适应/column-average.html",
+		"/E/网易微专业视频(1)/DOM编程艺术/三 属性操作/4.dataset.html",
+		"/E/网易微专业视频(1)/DOM编程艺术/三 属性操作/1.propertyTypes.html",
+		"/E/网易微专业视频(1)/DOM编程艺术/三 属性操作/2.atttibuteTypes.html",
+		"/E/网易微专业视频(1)/DOM编程艺术/三 属性操作/3.form.html",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DR01.193/getCookie.js",
+		"/E/HTML/全屏布局/全屏布局.html",
+		"/E/HTML/全屏布局/flex全屏布局.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/ColorPicker.sublime-settings",
+		"/E/网易微专业视频(1)/页面架构/二 布局解决方案/3.全屏布局/demo/1.2.html",
+		"/E/网易微专业视频(1)/页面架构/二 布局解决方案/3.全屏布局/demo/1.1.html",
+		"/E/网易微专业视频(1)/页面架构/二 布局解决方案/3.全屏布局/demo/1.3.html",
+		"/E/HTML/自适应/两列等高自适应.html",
+		"/E/网易微专业视频(1)/页面架构/二 布局解决方案/3.全屏布局/demo/demo.css",
+		"/E/HTML/自适应/two-column.html",
+		"/E/HTML/自适应/three-column.html",
+		"/E/网易微专业视频(1)/页面架构/二 布局解决方案/2.多列布局/demo/3.1.html",
+		"/E/网易微专业视频(1)/页面架构/二 布局解决方案/2.多列布局/demo/2.1.html",
+		"/E/网易微专业视频(1)/页面架构/二 布局解决方案/2.多列布局/demo/1.5.html",
+		"/E/HTML/vertical layout/center layout.html",
+		"/E/网易微专业视频(1)/页面架构/二 布局解决方案/2.多列布局/demo/1.3.html",
+		"/E/网易微专业视频(1)/页面架构/二 布局解决方案/2.多列布局/demo/1.2.html",
+		"/E/网易微专业视频(1)/页面架构/二 布局解决方案/2.多列布局/demo/1.1.html",
+		"/E/HTML/vertical layout/vertical layout.html",
+		"/E/HTML/page for a band/scripts/page for a band.sublime-project",
+		"/E/HTML/page for a band/scripts/page for a band.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ctrl+shift+i",
+			"ctrl",
+			"},\n",
+			"$scope",
+			"$SCOPE",
+			"$scope",
+			"Scope",
+			"scope",
+			"Scope",
+			"scope",
+			"SCOPE",
+			"Scope",
+			"scope",
+			"angular",
+			"Angular",
+			"angular",
+			"insert",
+			"list",
+			"alert",
+			"id",
+			"goOn",
+			"callback",
+			"animation",
+			"leave6",
+			"nav",
+			"pic",
+			"pic3",
+			"[",
+			"center",
+			"parentElement",
+			"(\n",
+			"			\n",
+			"parentElement",
+			"oldonload",
+			"head",
+			">",
+			"toggle_c",
+			"href",
+			"a",
+			" \n",
+			"href"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Administrator/Desktop/angular-phonecat/app/partials/phone-list.html",
+					"settings":
+					{
+						"buffer_size": 1152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/HTML/AngularJs/phonecap/app/index.html",
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/HTML/AngularJs/phonecap/app/parts/phonelist.html",
+					"settings":
+					{
+						"buffer_size": 505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								364,
+								364
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/HTML/page for a band/scripts/page for a band.sublime-project"
+			],
+			[
+				"page for a band",
+				"/E/HTML/page for a band/scripts/page for a band.sublime-project"
+			],
+			[
+				"p",
+				"/E/HTML/page for a band/scripts/page for a band.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true
+}
